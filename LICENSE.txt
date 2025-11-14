@@ -1,0 +1,34 @@
+Estonia Open Code License (EOCL) v1.0
+
+Copyright (c) 2025 Estonia
+
+Permission is hereby granted to any person obtaining a copy
+of this software and associated documentation files (the "Software"),
+to use, modify, and redistribute the Software **for free**, under the
+following conditions:
+
+1. **Credit Requirement**  
+   Any redistributed or modified version of the Software must include
+   visible credit to "Estonia" and a link to the original public
+   repository where this Software was obtained.
+
+2. **Same License Requirement (Copyleft)**  
+   Any redistributed or modified version of the Software must be released
+   under this same license (Estonia Open Code License v1.0).  
+   You may not relicense the Software under any other terms.
+
+3. **Commercial Use Prohibited**  
+   The Software and any derivative works may **not** be sold or used
+   for commercial purposes.  
+   This includes selling copies, selling access, selling services
+   based on the Software, or including the Software in paid products.
+
+4. **No Warranty**  
+   The Software is provided "as is", without warranty of any kind,
+   express or implied. In no event shall the copyright holders or
+   contributors be liable for any damages or claims arising from the
+   use of the Software.
+
+By using, modifying, or distributing the Software, you accept and agree
+to be bound by the terms of this license.
+
